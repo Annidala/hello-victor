@@ -5,3 +5,4 @@ Hellos = {
     "deutsch": "Hallo World!"}
 
 print(Hellos[langue.lower()])
+print(list(Hellos.values()))
