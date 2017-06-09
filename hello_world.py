@@ -1,4 +1,5 @@
 langue = input("Choose YOUR LANGUAGE")
+# Un logiciel pertinent
 Hellos = {
     "français": "Bonjour Monde !",
     "english": "Bitch wanna say HELLO",
