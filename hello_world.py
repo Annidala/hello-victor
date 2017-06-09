@@ -4,6 +4,6 @@ Hellos = {
     "français": "Bonjour Monde !",
     "english": "Bitch wanna say HELLO",
     "deutsch": "Hallo World!"}
-
+print("un fichier ? ")
 print(Hellos[langue.lower()])
 print(list(Hellos.values()))
